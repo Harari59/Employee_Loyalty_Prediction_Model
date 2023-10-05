@@ -1,0 +1,2 @@
+link hugging face : https://huggingface.co/spaces/Harari59/HRAnalytics
+Link Data Set ini : https://www.kaggle.com/datasets/arashnic/hr-analytics-job-change-of-data-scientists
